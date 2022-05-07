@@ -2,7 +2,7 @@ EC523 Final Project - Pick & Place using Deep Reinforcement learning
 
 We re implemented https://github.com/PaulDanielML/MuJoCo_RL_UR5 
 
-The Modules.py file, transform_observation and transform_action functions are taken from that project (with some modifications). Everything else was re-written. This project only uses binary rewards, we testing the model with 3 different rewards: Categorical, Euclidean and Manhattan.
+The Modules.py file, transform_observation and transform_action functions are taken from that project (with some modifications). Everything else was re-written. This project only uses binary rewards, we added 3 different rewards: Categorical, Euclidean and Manhattan.
 
 ## Installation
 
