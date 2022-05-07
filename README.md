@@ -4,7 +4,8 @@ We re implemented https://github.com/PaulDanielML/MuJoCo_RL_UR5
 
 The Modules.py file, Controller.py, transform_observation and transform_action functions are taken from that project (with some modifications). Everything else was re-written. This project only uses binary rewards, we added 3 different rewards: Categorical, Euclidean and Manhattan.
 
-The code for the object detection in included in the Camer.py file.
+The code for the object detection in included in the Camer.py file. 
+Gym environment can found in the GraspingEnv.py file. 
 
 ## Installation
 
