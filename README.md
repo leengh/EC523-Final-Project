@@ -1,4 +1,4 @@
-EC523 Final Project
+EC523 Final Project - Pick & Place using Deep Reinforcement learning
 
 We re implemented https://github.com/PaulDanielML/MuJoCo_RL_UR5 
 
