@@ -8,7 +8,17 @@ The Modules.py file, transform_observation and transform_action functions are ta
 
 1- Install mujoco 210 and setup the license.
 
+2- Download the code
+
 2- Run 'pip install -r requirements.txt' to install the required packages
+
+3- Run test.py to test the pre-trained model or train.py to train the model.
+
+Note: 
+
+1- MujoCo doesn't work on windows. This code was tested on Ubuntu and Mac OS.
+
+2- The model is not fully trained due to time limitations.
 
 ## Train
 
