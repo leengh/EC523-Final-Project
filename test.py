@@ -4,8 +4,8 @@ from DQN_agent import DQN_Agent
 #               BINARY REWARDS
 # =====================================================
 
-# agent = DQN_Agent(load_weights_path="model_weights/1000-episodes-binary.pt",
-#                     train=False, model_type="binary")
+agent = DQN_Agent(load_weights_path="model_weights/1000-episodes-binary.pt",
+                    train=False, model_type="binary")
 
 # =====================================================
 #               CATEGORICAL REWARDS
@@ -18,8 +18,8 @@ from DQN_agent import DQN_Agent
 #               EUCLIDEAN REWARDS
 # =====================================================
 
-agent = DQN_Agent(load_weights_path="model_weights/1000-episodes-euclidean.pt",
-                     train=False, model_type="euclidean")
+# agent = DQN_Agent(load_weights_path="model_weights/1000-episodes-euclidean.pt",
+#                      train=False, model_type="euclidean")
 
 # =====================================================
 #               MANHATTAN REWARDS
